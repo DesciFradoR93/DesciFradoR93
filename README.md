@@ -27,7 +27,7 @@
 <a href="https://instagram.com/cursedclient2563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cursedclient2563" height="30" width="40" /></a>
 </p>-->
 <hr/>
-<h2 align="center">⛏️ Languages ⛏️<br>&<br>⛏️ Frameworks ⛏️</h2>
+<h2 align="center">😎 Tect Stack 😎</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
@@ -62,3 +62,17 @@
   <br/><br/>
   <hr/>
   <br/>-->
+
+<h2 align="center">✨ Programming Quotes ✨</h2>
+  <br>
+<div align="center">
+    
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<h2 align="center">🤣 Programming Jokes 😂</h2>
+  <br>
+
+  <div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+  </div>
