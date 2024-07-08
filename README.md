@@ -15,12 +15,12 @@
 </h3>
 <br/>
 
-<h2 align="center">🪩 Discord Account 🪩</h2>
+<!-- <h2 align="center">🪩 Discord Account 🪩</h2>
 <br/>
-<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180786291718242334/titled.png?ex=657eafed&is=656c3aed&hm=3813459b81bd90d7bc0c36311235dc85b487e274dea852d11094e903960d2137&" alt="Discord Account"></div>
-<!--<h2 align="center"> 🏆 Trophies 🏆 </h2>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1180786291718242334/titled.png?ex=657eafed&is=656c3aed&hm=3813459b81bd90d7bc0c36311235dc85b487e274dea852d11094e903960d2137&" alt="Discord Account"></div> -->
+<h2 align="center"> 🏆 Trophies 🏆 </h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>-->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myordinaryworld" alt="myordinaryworld" /></a> </p>
 
 <!--<h3 align="center">👋 Connect with me 👋</h3>
 <p align="center">
@@ -31,14 +31,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,flask,java" /><br>
 </div>
-
+<!--
 <br/><hr/>
 <h2 align="center">👌 Favourite Languages 👌</h2>
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1054645111834812467/1183115828779028590/bandicam_2023-12-10_00-09-01-897.jpg?ex=6587297a&is=6574b47a&hm=9f8db1209cdd47d51df3bcf1c88110c643816e46bcfc7ae7508a6975665c4644&"</div>
 <br/><hr/>
-
+-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -49,8 +49,8 @@
     <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=descifrador93&theme=dark" alt="descifrador93" />
 </div>
 <hr/>
-<h3 align="center">Close Friend on Github</h3>
-<img align="center" src="https://cdn.discordapp.com/attachments/1054645111834812467/1183130287236993094/image.png?ex=658736f1&is=6574c1f1&hm=f554ec05286dea564603698d76abd5612346fe9a5b0e70ad3ceae062a21cf8a5&" >
+<!-- <h3 align="center">Close Friend on Github</h3>
+<img align="center" src="https://cdn.discordapp.com/attachments/1054645111834812467/1183130287236993094/image.png?ex=658736f1&is=6574c1f1&hm=f554ec05286dea564603698d76abd5612346fe9a5b0e70ad3ceae062a21cf8a5&" > -->
 <!--<br/>
 <hr/>
 <div align="center">
